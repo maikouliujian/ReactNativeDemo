@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="activity_list">
+        <item>HelloWorld</item>
+        <item>FlexTest</item>
+        <item>FlexDiceTest</item>
+        <item>FetchNetData</item>
+        <item>BannerTest</item>
+        <item>TopTabViewTest</item>
+        <item>BottomTabViewTest</item>
+        <item>TaberTest</item>
+        <item>AnatomyTest</item>
+        <item>ScrollViewTest</item>
+        <item>ListViewTest</item>
+        <item>VideoListItem</item>
+        <item>MainPage</item>
+        <item>StartUp</item>
+        <item>ParallaxTest</item>
+    </string-array>
+
+</resources>
